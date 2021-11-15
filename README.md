@@ -112,4 +112,71 @@
 |109.| Merge two sorted Arrays without extra space| Content Cell  |
 |110.| Kadane’s Algorithm | Content Cell  |
 |111.| Merge Overlapping Subintervals| Content Cell  |
-|112.| Find the duplicate in an array of N+1 integers| Content 
+|112.| Find the duplicate in an array of N+1 integers| Content |
+|  113.  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
+|114.| Set Matrix Zeros   | Content Cell  |
+|115.|Repeat and Missing Number  | Content Cell  |
+|116.| Merge two sorted Arrays without extra space| Content Cell  |
+|117.| Kadane’s Algorithm | Content Cell  |
+|118.| Merge Overlapping Subintervals| Content Cell  |
+|119.| Find the duplicate in an array of N+1 integers| Content Cell  |
+|  120  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
+|121| Set Matrix Zeros   | Content Cell  |
+|122.|Repeat and Missing Number  | Content Cell  |
+|123.| Merge two sorted Arrays without extra space| Content Cell  |
+|124.| Kadane’s Algorithm | Content Cell  |
+|125.| Merge Overlapping Subintervals| Content Cell  |
+|126.| Find the duplicate in an array of N+1 integers| Content |
+| 127.  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
+|128.| Set Matrix Zeros   | Content Cell  |
+|129|Repeat and Missing Number  | Content Cell  |
+|130| Merge two sorted Arrays without extra space| Content Cell  |
+|131.| Kadane’s Algorithm | Content Cell  |
+|132.| Merge Overlapping Subintervals| Content Cell  |
+|133.| Find the duplicate in an array of N+1 integers| Content Cell  |
+| 134  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
+|135| Set Matrix Zeros   | Content Cell  |
+|136|Repeat and Missing Number  | Content Cell  |
+|137| Merge two sorted Arrays without extra space| Content Cell  |
+|138| Kadane’s Algorithm | Content Cell  |
+|139| Merge Overlapping Subintervals| Content Cell  |
+|140| Find the duplicate in an array of N+1 integers| Content |
+  |141  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
+|142| Set Matrix Zeros   | Content Cell  |
+|143|Repeat and Missing Number  | Content Cell  |
+|145| Merge two sorted Arrays without extra space| Content Cell  |
+|146| Kadane’s Algorithm | Content Cell  |
+|147| Merge Overlapping Subintervals| Content Cell  |
+|148| Find the duplicate in an array of N+1 integers| Content Cell  |
+| 149 | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
+|150 Set Matrix Zeros   | Content Cell  |
+|151|Repeat and Missing Number  | Content Cell  |
+|152| Merge two sorted Arrays without extra space| Content Cell  |
+|153| Kadane’s Algorithm | Content Cell  |
+|154| Merge Overlapping Subintervals| Content Cell  |
+|155| Find the duplicate in an array of N+1 integers| Content |
+| 156.  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
+|157| Set Matrix Zeros   | Content Cell  |
+|158|Repeat and Missing Number  | Content Cell  |
+|159| Merge two sorted Arrays without extra space| Content Cell  |
+|160| Kadane’s Algorithm | Content Cell  |
+|161| Merge Overlapping Subintervals| Content Cell  |
+|162| Find the duplicate in an array of N+1 integers| Content Cell  |
+| 163  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
+|164| Set Matrix Zeros   | Content Cell  |
+|165|Repeat and Missing Number  | Content Cell  |
+|166| Merge two sorted Arrays without extra space| Content Cell  |
+|167| Kadane’s Algorithm | Content Cell  |
+|168| Merge Overlapping Subintervals| Content Cell  |
+|169| Find the duplicate in an array of N+1 integers| Content |
+| 170  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
+|171| Set Matrix Zeros   | Content Cell  |
+|172|Repeat and Missing Number  | Content Cell  |
+|173| Merge two sorted Arrays without extra space| Content Cell  |
+|174| Kadane’s Algorithm | Content Cell  |
+|175| Merge Overlapping Subintervals| Content Cell  |
+|176| Find the duplicate in an array of N+1 integers| Content Cell  |
+| 177  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
+|178| Set Matrix Zeros   | Content Cell  |
+|179|Repeat and Missing Number  | Content Cell  |
+|180| Merge two sorted Arrays without extra space| Content Cell  |
