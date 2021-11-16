@@ -7,24 +7,28 @@
 
 |Sr.no.| Problem name  |    Problem Link      |
 |------| ------------- | ------------- |
+  |<b><h3>Day 1 - Arrays</he></b>|
 | 1.|Sort an array of 0’s 1’s 2’s without using extra space or sorting algo |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/1.%20sort0%2C1%2C2.cpp">Solution</a>|
-|2.| Set Matrix Zeros   | Content Cell  |
-|3.|Repeat and Missing Number  |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/3.%20repeating%20and%20missing.cpp"> Solution </a>|
-|4.| Merge two sorted Arrays without extra space| Content Cell  |
-|5.| Kadane’s Algorithm | Content Cell  |
-|6.| Merge Overlapping Subintervals| Content Cell  |
-|7.| Find the duplicate in an array of N+1 integers| Content Cell  |
-|  8  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
-|9.| Set Matrix Zeros   | Content Cell  |
-|10.|Repeat and Missing Number  | Content Cell  |
-|11.| Merge two sorted Arrays without extra space| Content Cell  |
-|12.| Kadane’s Algorithm | Content Cell  |
-|13.| Merge Overlapping Subintervals| Content Cell  |
-|14.| Find the duplicate in an array of N+1 integers| Content |
-|  15.  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
-|16.| Set Matrix Zeros   | Content Cell  |
-|17.|Repeat and Missing Number  | Content Cell  |
-|18.| Merge two sorted Arrays without extra space| Content Cell  |
+|2.|Repeat and Missing Number|<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/3.%20repeating%20and%20missing.cpp"> Solution </a>|
+|3.| Merge two sorted Arrays without extra space|  <a href="">Solution</a>   |
+|4.| Kadane’s Algorithm |  <a href="">Solution</a> |
+|5.| Merge Overlapping Subintervals|  <a href="">Solution</a> |
+|6.| Find the duplicate in an array of N+1 integers|  <a href="">Solution</a>  |
+  |<b><h3>Day 2 - Arrays</he></b>|
+|7.|Set Matrix Zeros| <a href="">Solution</a> |
+|8.| Pascal Triangle |  <a href="">Solution</a>  |
+|9.|Next Permutation|  <a href="">Solution</a>  |
+|10.|Inversion of Array|  <a href="">Solution</a>   |
+|11.|Stock Buy and Sell|  <a href="">Solution</a>   |
+|12.|Rotate Matrix| <a href="">Solution</a> |
+  |<b><h3>Day 3 - Arrays/Maths</he></b>|
+|13.| Search in a 2D matrix|  <a href="">Solution</a>  |
+|14.| Pow(X,n) |  <a href="">Solution</a>  |
+|15.| Majority Element (>N/2 times)     |  <a href="">Solution</a>  |
+|16.| Majority Element (>N/3 times)  | <a href="">Solution</a> |
+|17.|Grid Unique Paths| <a href="">Solution</a> |
+  |18.|Reverse Pairs (Leetcode)| <a href="">Solution</a>  |
+  |<b><h3>Day 4 - Hashing</he></b>|
 |19.| Kadane’s Algorithm | Content Cell  |
 |20.| Merge Overlapping Subintervals| Content Cell  |
 |21.| Find the duplicate in an array of N+1 integers| Content Cell  |
