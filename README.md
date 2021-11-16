@@ -7,7 +7,7 @@
 
 |Sr.no.| Problem name  |    Problem Link      |
 |------| ------------- | ------------- |
-|  1.  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
+| 1.|Sort an array of 0’s 1’s 2’s without using extra space or sorting algo |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/1.%20sort0%2C1%2C2.cpp">Solution</a>|
 |2.| Set Matrix Zeros   | Content Cell  |
 |3.|Repeat and Missing Number  |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/3.%20repeating%20and%20missing.cpp"> Solution </a>|
 |4.| Merge two sorted Arrays without extra space| Content Cell  |
@@ -155,7 +155,7 @@
 |147| Merge Overlapping Subintervals| Content Cell  |
 |148| Find the duplicate in an array of N+1 integers| Content Cell  |
 | 149 | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
-|150 Set Matrix Zeros   | Content Cell  |
+|150| Set Matrix Zeros   | Content Cell  |
 |151|Repeat and Missing Number  | Content Cell  |
 |152| Merge two sorted Arrays without extra space| Content Cell  |
 |153| Kadane’s Algorithm | Content Cell  |
