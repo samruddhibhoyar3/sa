@@ -1,4 +1,10 @@
 # STRIVER_SDE_SHEET
+
+<li><b>Sheet Link</b>:-https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit<br></li>
+<li><b>Youtube link</b>:-https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig<br></li>
+<li><b>Other sheets by Striver(takeuforward)</b>:-https://takeuforward.org/<br>
+  <br>
+
 |Sr.no.| Problem name  |    Problem Link      |
 |------| ------------- | ------------- |
 |  1.  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
