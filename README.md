@@ -13,7 +13,7 @@
 |3.| Merge two sorted Arrays without extra space|  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/3.Merge%20two%20sorted%20Arrays%20without%20extra%20space.cpp">Solution</a>   |
 |4.| Kadane’s Algorithm |  <a href="">Solution</a> |
 |5.| Merge Overlapping Subintervals|  <a href="">Solution</a> |
-|6.| Find the duplicate in an array of N+1 integers|  <a href="">Solution</a>  |
+|6.| Find the duplicate in an array of N+1 integers|  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/6.Find%20the%20duplicate%20in%20an%20array%20of%20N%2B1%20integers.cpp">Solution</a>  |
   |<b><h3>Day 2 - Arrays</he></b>|
 |7.|Set Matrix Zeros| <a href="">Solution</a> |
 |8.| Pascal Triangle |  <a href="">Solution</a>  |
