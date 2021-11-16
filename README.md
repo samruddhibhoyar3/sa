@@ -9,7 +9,7 @@
 |------| ------------- | ------------- |
 |  1.  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
 |2.| Set Matrix Zeros   | Content Cell  |
-|3.|Repeat and Missing Number  | Content Cell  |
+|3.|Repeat and Missing Number  |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/3.%20repeating%20and%20missing.cpp"> Solution </a>|
 |4.| Merge two sorted Arrays without extra space| Content Cell  |
 |5.| Kadane’s Algorithm | Content Cell  |
 |6.| Merge Overlapping Subintervals| Content Cell  |
