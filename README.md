@@ -5,7 +5,7 @@
 <li><b>Other sheets by Striver(takeuforward)</b>:-https://takeuforward.org/<br>
   <br>
 
-|Sr.no.| Problem name  |    Problem Link      |
+|Sr.no.| Problem name  |  Solution Link      |
 |------| ------------- | ------------- |
   |<b><h3>Day 1 - Arrays</he></b>|
 | 1.|Sort an array of 0’s 1’s 2’s without using extra space or sorting algo |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/1.%20sort0%2C1%2C2.cpp">Solution</a>|
