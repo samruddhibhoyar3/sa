@@ -10,7 +10,7 @@
   |<b><h3>Day 1 - Arrays</he></b>|
 | 1.|Sort an array of 0’s 1’s 2’s without using extra space or sorting algo |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/1.%20sort0%2C1%2C2.cpp">Solution</a>|
 |2.|Repeat and Missing Number|<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/3.%20repeating%20and%20missing.cpp"> Solution </a>|
-|3.| Merge two sorted Arrays without extra space|  <a href="">Solution</a>   |
+|3.| Merge two sorted Arrays without extra space|  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/3.Merge%20two%20sorted%20Arrays%20without%20extra%20space.cpp">Solution</a>   |
 |4.| Kadane’s Algorithm |  <a href="">Solution</a> |
 |5.| Merge Overlapping Subintervals|  <a href="">Solution</a> |
 |6.| Find the duplicate in an array of N+1 integers|  <a href="">Solution</a>  |
