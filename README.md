@@ -5,15 +5,15 @@
 <li><b>Other sheets by Striver(takeuforward)</b>:-https://takeuforward.org/<br>
   <br>
 
-|Sr.no.| Problem name  |  Solution Link      |
-|------| ------------- | ------------- |
+|Sr.no.| Problem name  |  Solution Link      | Difficulty level / Comments/ Note|
+|------| ------------- | ------------- |-----------|
   |<b><h3>Day 1 - Arrays</he></b>|
-| 1.|Sort an array of 0’s 1’s 2’s without using extra space or sorting algo |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/1.%20sort0%2C1%2C2.cpp">Solution</a>|
-|2.|Repeat and Missing Number|<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/3.%20repeating%20and%20missing.cpp"> Solution </a>|
-|3.| Merge two sorted Arrays without extra space|  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/3.Merge%20two%20sorted%20Arrays%20without%20extra%20space.cpp">Solution</a>   |
+| 1.|Sort an array of 0’s 1’s 2’s without using extra space or sorting algo |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/1.%20sort0%2C1%2C2.cpp">Solution</a>|Dutch national flag algo used |
+|2.|Repeat and Missing Number|<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/3.%20repeating%20and%20missing.cpp"> Solution </a>| XOR of numbers is done, later numbers with last digit as set bit are separated into 2 buckets|
+|3.| Merge two sorted Arrays without extra space|  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/3.Merge%20two%20sorted%20Arrays%20without%20extra%20space.cpp">Solution</a>   | Shell sort used, hard|
 |4.| Kadane’s Algorithm |  <a href="">Solution</a> |
-|5.| Merge Overlapping Subintervals|  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/5.Merge%20Overlapping%20Subintervals.cpp">Solution</a> |
-|6.| Find the duplicate in an array of N+1 integers|  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/6.Find%20the%20duplicate%20in%20an%20array%20of%20N%2B1%20integers.cpp">Solution</a>  |
+|5.| Merge Overlapping Subintervals|  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/5.Merge%20Overlapping%20Subintervals.cpp">Solution</a> |Concept of vector of vectors or pair of vectors used.
+|6.| Find the duplicate in an array of N+1 integers|  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/6.Find%20the%20duplicate%20in%20an%20array%20of%20N%2B1%20integers.cpp">Solution</a>  |Hashing can be used but linked list cycle method is more optimised with O(1) space|
   |<b><h3>Day 2 - Arrays</he></b>|
 |7.|Set Matrix Zeros| <a href="">Solution</a> |
 |8.| Pascal Triangle |  <a href="">Solution</a>  |
