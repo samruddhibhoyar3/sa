@@ -17,9 +17,10 @@
 |6.| Find the duplicate in an array of N+1 integers|<a href="https://leetcode.com/problems/find-the-duplicate-number/">Problem</a>|<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/6.Find%20the%20duplicate%20in%20an%20array%20of%20N%2B1%20integers.cpp">Solution</a>  |Hashing can be used but linked list cycle method is more optimised with O(1) space|
 |<b><h3>Day 2 - Arrays</he></b>|
 |7.|Set Matrix Zeros|<a href="https://leetcode.com/problems/merge-intervals/">Problem</a>| <a href="">Solution</a> ||
-  |8.| Pascal Triangle |<a href="https://leetcode.com/problems/pascals-triangle/">Problem</a> |  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/8.pascal%20triangle.cpp">Solution</a>  |
-  |9.|Next Permutation| <a href="https://leetcode.com/problems/next-permutation/">Problem</a> |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/9.next%20permutation.cpp">Solution</a>  |
-|10.|Inversion of Array|  <a href="">Solution</a>   |
+  |8.| Pascal Triangle |<a href="https://leetcode.com/problems/pascals-triangle/">Problem</a> |  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/8.pascal%20triangle.cpp">Solution</a>  | We know the numbers can be generated using formula nCr but it would take O(n), thus simply adding previous numbers + every last and first coloumn is '1', the interviwers can ask only to print numbers of any row or can ask whole triangle to be print, the nth row would have n columns, if only row no and col no is given then use nCr|
+  |9.|Next Permutation| <a href="https://leetcode.com/problems/next-permutation/">Problem</a> |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/9.next%20permutation.cpp">Solution</a> | The dictionary order is the basic intuition which helps guess the next number, we need to find th no in the given array before which all the numbers are smaller while after that all the numbers are greater, also everytime we need to traverse from the back and find breakpoint| 
+|10.|Inversion of Array|  <a href="https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1">Problem</a>   |<a href="">Solution</a>|Inversion Count for an array indicates – how far (or close) the array is from being sorted. If the array is already sorted, then the inversion count is 0, but if the array is sorted in the reverse order, the inversion count is the maximum. 
+Formally speaking, two elements a[i] and a[j] form an inversion if a[i] > a[j] and i < j |
 |11.|Stock Buy and Sell|  <a href="">Solution</a>   |
 |12.|Rotate Matrix| <a href="">Solution</a> |
   |<b><h3>Day 3 - Arrays/Maths</he></b>|
