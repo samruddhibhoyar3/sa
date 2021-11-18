@@ -17,7 +17,7 @@
 |6.| Find the duplicate in an array of N+1 integers|<a href="https://leetcode.com/problems/find-the-duplicate-number/">Problem</a>|<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/6.Find%20the%20duplicate%20in%20an%20array%20of%20N%2B1%20integers.cpp">Solution</a>  |Hashing can be used but linked list cycle method is more optimised with O(1) space|
 |<b><h3>Day 2 - Arrays</he></b>|
 |7.|Set Matrix Zeros|<a href="https://leetcode.com/problems/merge-intervals/">Problem</a>| <a href="">Solution</a> ||
-  |8.| Pascal Triangle |<a href="https://leetcode.com/problems/pascals-triangle/">Problem</a> |  <a href="">Solution</a>  |
+  |8.| Pascal Triangle |<a href="https://leetcode.com/problems/pascals-triangle/">Problem</a> |  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/8.pascal%20triangle.cpp">Solution</a>  |
   |9.|Next Permutation| <a href="https://leetcode.com/problems/next-permutation/">Problem</a> |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/9.next%20permutation.cpp">Solution</a>  |
 |10.|Inversion of Array|  <a href="">Solution</a>   |
 |11.|Stock Buy and Sell|  <a href="">Solution</a>   |
