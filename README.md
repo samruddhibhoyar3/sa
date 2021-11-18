@@ -20,22 +20,23 @@
   |8.| Pascal Triangle |<a href="https://leetcode.com/problems/pascals-triangle/">Problem</a> |  <a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/8.pascal%20triangle.cpp">Solution</a>  | We know the numbers can be generated using formula nCr but it would take O(n), thus simply adding previous numbers + every last and first coloumn is '1', the interviwers can ask only to print numbers of any row or can ask whole triangle to be print, the nth row would have n columns, if only row no and col no is given then use nCr|
   |9.|Next Permutation| <a href="https://leetcode.com/problems/next-permutation/">Problem</a> |<a href="https://github.com/samruddhibhoyar3/striver_sde_sheet/blob/main/9.next%20permutation.cpp">Solution</a> | The dictionary order is the basic intuition which helps guess the next number, we need to find th no in the given array before which all the numbers are smaller while after that all the numbers are greater, also everytime we need to traverse from the back and find breakpoint| 
 |10.|Inversion of Array|  <a href="https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1">Problem</a>   |<a href="">Solution</a>|Inversion Count for an array indicates – how far (or close) the array is from being sorted. If the array is already sorted, then the inversion count is 0, but if the array is sorted in the reverse order, the inversion count is the maximum. Formally speaking, two elements a[i] and a[j] form an inversion if a[i] > a[j] and i < j |
-|11.|Stock Buy and Sell|  <a href="">Solution</a>   |
-|12.|Rotate Matrix| <a href="">Solution</a> |
+|11.|Stock Buy and Sell|  <a href="">Solution</a>   | <a href="">Solution</a>|
+|12.|Rotate Matrix| <a href="">Solution</a> | <a href="">Solution</a>|
   |<b><h3>Day 3 - Arrays/Maths</he></b>|
-|13.| Search in a 2D matrix|  <a href="">Solution</a>  |
-|14.| Pow(X,n) |  <a href="">Solution</a>  |
-|15.| Majority Element (>N/2 times)     |  <a href="">Solution</a>  |
-|16.| Majority Element (>N/3 times)  | <a href="">Solution</a> |
-|17.|Grid Unique Paths| <a href="">Solution</a> |
-  |18.|Reverse Pairs (Leetcode)| <a href="">Solution</a>  |
+|13.| Search in a 2D matrix|  <a href="">Solution</a>  | <a href="">Solution</a>|
+|14.| Pow(X,n) |  <a href="">Solution</a>  | <a href="">Solution</a>|
+|15.| Majority Element (>N/2 times)     |  <a href="">Solution</a>  | <a href="">Solution</a>|
+|16.| Majority Element (>N/3 times)  | <a href="">Solution</a> | <a href="">Solution</a>|
+|17.|Grid Unique Paths| <a href="">Solution</a> | <a href="">Solution</a>|
+  |18.|Reverse Pairs (Leetcode)| <a href="">Solution</a>  | <a href="">Solution</a>|
   |<b><h3>Day 4 - Hashing</he></b>|
-|19.| Kadane’s Algorithm | Content Cell  |
-|20.| Merge Overlapping Subintervals| Content Cell  |
-|21.| Find the duplicate in an array of N+1 integers| Content Cell  |
-|  22  | Sort an array of 0’s 1’s 2’s without using extra space or sorting algo | Content Cell  |
-|23.| Set Matrix Zeros   | Content Cell  |
-|24.|Repeat and Missing Number  | Content Cell  |
+|19.| 2 Sum problem  |  <a href="">Problem</a>| <a href="">Solution</a>|
+|20.| 4 Sum problem |  <a href="">Problem</a>| <a href="">Solution</a>|
+|21.| Longest Consecutive Sequence |  <a href="">Problem</a>| <a href="">Solution</a>|
+|  22  |Largest Subarray with 0 sum  |  <a href="">Problem</a>| <a href="">Solution</a>|
+|23.| Count number of subarrays with given XOR |  <a href="">Problem</a>| <a href="">Solution</a>|
+|24.|Longest substring without repeat |  <a href="">Problem</a>| <a href="">Solution</a>|
+|<b><h3>Day 4 - Hashing</he></b>|
 |25.| Merge two sorted Arrays without extra space| Content Cell  |
 |26.| Kadane’s Algorithm | Content Cell  |
 |27.| Merge Overlapping Subintervals| Content Cell  |
