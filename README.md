@@ -18,7 +18,7 @@
 |<b><h3>Day 2 - Arrays</he></b>|
 |7.|Set Matrix Zeros|<a href="https://leetcode.com/problems/merge-intervals/">Problem</a>| <a href="">Solution</a> ||
   |8.| Pascal Triangle |<a href="https://leetcode.com/problems/pascals-triangle/">Problem</a> |  <a href="">Solution</a>  |
-|9.|Next Permutation|  <a href="">Solution</a>  |
+  |9.|Next Permutation| <a href="https://leetcode.com/problems/next-permutation/">Problem</a> |<a href="">Solution</a>  |
 |10.|Inversion of Array|  <a href="">Solution</a>   |
 |11.|Stock Buy and Sell|  <a href="">Solution</a>   |
 |12.|Rotate Matrix| <a href="">Solution</a> |
